@@ -1,0 +1,5 @@
+1 : Add TamkerMonkey on Chrome Extentions
+2 : Click on the extenstion and click "Create a New Script" 
+3 : Delete all the text then paste the code in "KrunkerHacks.txt" to the script
+4 : Click save 
+5 : Open up Krunker and your all good to go!
